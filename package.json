@@ -1,0 +1,29 @@
+{
+  "name": "q-map",
+  "version": "0.1.1",
+  "description": "A utility for throttling arrays of Q promises",
+  "main": "q-map.js",
+  "dependencies": {
+    "q": "~1.0.1",
+    "async": "~0.8.0",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/michaelchihuyho/q-map.git"
+  },
+  "keywords": [
+    "q",
+    "map"
+  ],
+  "author": "Michael Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelchihuyho/q-map/issues"
+  },
+  "homepage": "https://github.com/michaelchihuyho/q-map"
+}
