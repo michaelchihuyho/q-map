@@ -32,5 +32,5 @@ module.exports.map = function(myArray, iterator, limit) {
         return deferred.promise
     })
 
-    return promiseArray
+    return Q.all(promiseArray)
 }
