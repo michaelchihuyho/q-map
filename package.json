@@ -4,11 +4,10 @@
   "description": "A utility for throttling arrays of Q promises",
   "main": "q-map.js",
   "dependencies": {
-    "q": "~1.0.1",
     "async": "~0.8.0",
-    "underscore": "~1.6.0"
+    "q": "~1.0.1",
+    "underscore": "~1.13.6"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
